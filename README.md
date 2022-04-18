@@ -144,6 +144,7 @@ TOPIC: Connects a predicative element to a topic complement value (usually intro
 
 
 **References**
+
 Banarescu, L., Bonial, C., Cai, S., Georgescu, M., Griffitt, K., Hermjakob, U., Knight, K., Koehn, P., Palmer, M., Schneider, N.: Abstract meaning representation for sembanking. In: Proceedings of the 7th Linguistic Springer Nature 2021 LATEX template 22 AMR for Legal Texts - Guidelines Annotation Workshop and Interoperability with Discourse, pp. 178–186 (2013) 
 
 Banarescu, L., Bonial, C., Cai, S., Georgescu, M., Griffitt, K., Hermjakob, U., Knight, K., Koehn, P., Palmer, M., Schneider, N.: Abstract Meaning Representation (AMR) 1.2.6 Specification”, (2019). https://github.com/amrisi/amr-guidelines
